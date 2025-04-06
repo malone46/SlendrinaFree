@@ -1,6 +1,7 @@
 # Slendrina Free
 Slendrina Free 1.0 for the Playstation Vita by MaloneCZSD.
-Removed the "Full Version" flag.
+Removed the "Full Version" flag. 
+I will update the version over time.
 
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/50cb369a-c3f5-4852-ab1e-e62fcdf3d6f3" width="960" height="544" />
