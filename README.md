@@ -13,5 +13,4 @@ For the moment, the only way is to download it from Github.
 It will be accessible on VitaDB soon !
 
 ## Issues
-- The game crash when you press "Ok" on the help screen.
-- Terrain may be black in level "Yarn" and "Warehouse"
+No issues reported !
